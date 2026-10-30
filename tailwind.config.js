@@ -1,0 +1,1 @@
+export default { content: ['./index.html','./src/**/*.{ts,tsx}'], theme: { extend: { colors: { byteBlue:'#2A00FF', byteYellow:'#F9E900', byteRed:'#DD1C1A' }, fontFamily: { sans:['Space Grotesk','sans-serif'], mono:['Space Mono','monospace'] } } }, plugins: [] }
